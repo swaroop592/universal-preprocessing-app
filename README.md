@@ -1,7 +1,7 @@
 # Universal Data Preprocessing & Visualization (MVP++)
 
 A **Streamlit web application** for importing, cleaning, merging, and visualizing **real-world datasets** (CSV & XLSX).  
-Designed to be **universal** — works across research, analytics, ML, IoT, agriculture, finance, and business datasets.
+Designed to be **universal** works across research, analytics, ML, IoT, agriculture, finance, and business datasets.
 
 ---
 
@@ -91,7 +91,7 @@ Automatically **recommends charts** based on column types:
 
 ## 🖥️ Live App
 Deployable on **Streamlit Community Cloud**  
-Anyone with the link can use it — no login required.
+Anyone with the link can use it no login required.
 
 ---
 
