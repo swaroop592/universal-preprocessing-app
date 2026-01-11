@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-openpyxl
-python-dateutil
-rapidfuzz
-scikit-learn
-pyarrow
